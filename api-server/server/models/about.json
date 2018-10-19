@@ -1,6 +1,6 @@
 {
   "name": "about",
-  "plural": "about",
+  "plural": "abouts",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
