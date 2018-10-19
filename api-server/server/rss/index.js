@@ -75,7 +75,7 @@ class NewsFeed {
           resolve(this.state.combinedFeed) :
           setTimeout(waitForReady, 100);
       }
-      log('are we ready?', this.state.readyState);
+      log('are we ready to rumble?', this.state.readyState);
       return this.state.readyState ?
         resolve(this.state.combinedFeed) :
         setTimeout(waitForReady, 100);
