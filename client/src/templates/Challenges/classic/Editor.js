@@ -35,6 +35,7 @@ const mapDispatchToProps = dispatch =>
 const modeMap = {
   css: 'css',
   html: 'html',
+  html5: 'html5',
   js: 'javascript',
   jsx: 'javascript'
 };
