@@ -50,7 +50,7 @@
     {
       "amount": {
         "type": "number",
-        "description": "Amount should be >= $1 (100c)",
+        "description": "Amount should be at least $1 (100c)",
         "min": 100
       },
       "facetName": "server"
